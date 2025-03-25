@@ -1,4 +1,4 @@
-Galería de Black Panther
+# Galería de Black Panther
 
 Este proyecto consiste en una galería de fotos interactiva basada en la película Black Panther, presentada en formato slider. Los usuarios pueden navegar por las imágenes mediante desplazamiento lateral, mientras disfrutan de la atmósfera de la película acompañada por la reproducción automática de música. Este proyecto fue desarrollado utilizando HTML, CSS y JavaScript, proporcionando una experiencia fluida y envolvente.
 
